@@ -1,0 +1,6 @@
+---
+title: "Ce qui compte, Ã©crits choisis. Tome II, mÃ©thodes statistiques"
+key: "AVQV22XT"
+author: Brunet, Etienne
+---
+Ce volume recueille une sélection de dix-sept textes d'Étienne Brunet abordant les questions statistiques et informatiques pertinentes pour le traitement linguistique de corpus. Organisées chronologiquement, ces études parcourent quarante années d'une recherche qui explore sans relâche les rapports entre statistique et linguistique. Elles vont de l'évaluation des mesures à l'annotation et à la lemmatisation des corpus textuels. Ainsi voit-on, au fil des débats qui ont marqué ces disciplines, se structurer les champs de la lexicométrie et de la linguistique de corpus. Exposées et illustrées avec clarté, les méthodes présentées pourront être exploitées avec le logiciel HYPERBASE, installé sur le DVD de corpus littéraires annexé à ce volume. Préfacé par Ludovic Lebart, cet ouvrage est ainsi un indispensable guide méthodologique et permet de répondre aux questions que posent aujourd'hui l'analyse de données textuelles et la linguistique de corpus.

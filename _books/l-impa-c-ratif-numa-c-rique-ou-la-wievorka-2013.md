@@ -1,0 +1,13 @@
+---
+title: "L'impÃ©ratif numÃ©rique ou La nouvelle Ã¨re des sciences humaines et sociales ?"
+key: "YPIQGF9Q"
+author: Wievorka, Michel
+---
+Et si lâomniprÃ©sence du numÃ©rique signait non seulement une nouvelle Ã¨re, un changement culturel majeur mais aussi une rupture profonde, une transformation radicale de lâhumanitÃ© ? Et si le numÃ©rique constituait, aprÃ¨s lâinvention de lâÃ©criture et celle de lâimprimerie, la troisiÃ¨me grande rÃ©volution ? A ces questions, Michel Wieviorka en ajoute une autre : lâÃ¨re du numÃ©rique ne pourrait-elle pas susciter en France aussi le renouveau des sciences humaines et sociales (SHS) ? Sa rÃ©ponse est oui. Dans ce manifeste, le sociologue met en Ã©vidence le retard des SHS franÃ§aises dans la prise en compte et lâutilisation des nouveaux outils numÃ©riques. Sans doute ceux-ci reprÃ©sentent-ils un risque pour les libertÃ©s individuelles. Mais ils sont aussi un formidable outil de travail pour le chercheur en sciences sociales, fertile en innovations, nouvelles pratiques et nouvelles mÃ©thodes : le monde virtuel ne pourrait-il pas, par exemple, constituer un nouveau terrain dâenquÃªte ? Lâhistoire, dont Fukuyama prÃ©disait la fin, ne devient-elle pas une histoire Ã  la fois globale et individuelle grÃ¢ce aux Big data et leurs millions de donnÃ©es consultables en open access ? De sujet dâÃ©tude, lâhomme et la sociÃ©tÃ© ne deviennent-ils pas acteurs/auteurs de leur propre rÃ©cit ? Pour Michel Wieviorka, les sciences humaines et sociales doivent Ãªtre partie prenante des nouvelles technologies de lâinformation. Comment ? En utilisant donnÃ©es et rÃ©seaux sociaux du web 2.0 pour Ã©changer, communiquer, travailler de maniÃ¨re collaborative et produire des HumanitÃ©s numÃ©riques - rÃ©fÃ©rence aux anciennes HumanitÃ©s. Exemples Ã  lâappui, il explique tout le parti quâelles pourraient tirer du numÃ©rique et propose une nouvelle organisation de la recherche afin de dÃ©passer le systÃ¨me des disciplines, vÃ©ritable frein Ã  lâinnovation intellectuelle. Un saut qualitatif propice Ã  lâÃ©closion des figures dâintellectuels qui nous font aujourdâhui dÃ©faut...
+
+<div class="comment">
+<p>This description was automatically added from 
+<a href="https://books.google.com/books?id=JK8VXK7QMNAC">Google Books</a>. 
+For a customized abstract or excerpt, add a note to the item in the 
+<a href="github.com/{{github}}/{{BASE_URL}}">Zotero library</a></p>
+</div>
